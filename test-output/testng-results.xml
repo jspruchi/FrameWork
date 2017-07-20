@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="530057" started-at="2017-07-12T11:35:48Z" finished-at="2017-07-12T11:44:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="530057" started-at="2017-07-12T11:35:48Z" finished-at="2017-07-12T11:44:38Z">
+      <class name="script.ClickonSignInLink">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:script.ClickonSignInLink@28feb3fa]" name="openApplication" is-config="true" duration-ms="130378" started-at="2017-07-12T17:05:48Z" finished-at="2017-07-12T17:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testClickOnSignInLnk()[pri:1, instance:script.ClickonSignInLink@28feb3fa]" name="testClickOnSignInLnk" duration-ms="258992" started-at="2017-07-12T17:07:59Z" finished-at="2017-07-12T17:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickOnSignInLnk -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:script.ClickonSignInLink@28feb3fa]" name="closeApplication" is-config="true" duration-ms="1" started-at="2017-07-12T17:12:18Z" finished-at="2017-07-12T17:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:script.ClickonSignInLink@28feb3fa]" name="openApplication" is-config="true" duration-ms="125945" started-at="2017-07-12T17:12:18Z" finished-at="2017-07-12T17:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="TestselectProduct()[pri:2, instance:script.ClickonSignInLink@28feb3fa]" name="TestselectProduct" duration-ms="14709" started-at="2017-07-12T17:14:24Z" finished-at="2017-07-12T17:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestselectProduct -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:script.ClickonSignInLink@28feb3fa]" name="closeApplication" is-config="true" duration-ms="0" started-at="2017-07-12T17:14:38Z" finished-at="2017-07-12T17:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- script.ClickonSignInLink -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
