@@ -1,5 +1,9 @@
 package pom;
 
-public class Asddf {
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
+public class Asddf {
+@FindBy(id="ers")
+private WebElement ele;
 }
